@@ -1,0 +1,9 @@
+﻿<micro:CaliburnApplication
+    x:Class="Caliburn.Micro.Universal.Windows.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:micro="using:Caliburn.Micro"
+    xmlns:local="using:Caliburn.Micro.Universal.Windows"
+    RequestedTheme="Light">
+
+</micro:CaliburnApplication>
